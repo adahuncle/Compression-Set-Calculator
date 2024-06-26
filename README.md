@@ -18,7 +18,7 @@ Compression Set Calculator is an application designed to perform compression thi
 2. Run the following command to clone the repository:
 
     ```bash
-    git clone https://github.com/your-username/Compression-Set-Calculator.git
+    git clone https://github.com/adahuncle/Compression-Set-Calculator.git
     cd Compression-Set-Calculator
     ```
 
